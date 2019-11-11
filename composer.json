@@ -1,0 +1,14 @@
+{
+    "name": "emma/twig",
+    "description": "premiere quete twig",
+    "authors": [
+        {
+            "name": "emma b",
+            "email": "emmanuelle-buscher_student2019@wilder.school"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
+
